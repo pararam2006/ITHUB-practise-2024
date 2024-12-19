@@ -1,0 +1,22 @@
+th, td{
+    border: 2px solid silver;
+    padding: 8px;
+}
+table{
+    border: 2px solid silver;
+    width: 100%;
+}
+form{
+    float: left;
+}
+.admin{
+    text-align: right;
+}
+form div{
+    text-align: right;
+    line-height: 25px;
+}
+form label{
+    float: left;
+    margin-right: 3px;
+}
